@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    background-color: #eeee;
+}
+
+.titulo{
+    text-align: center;
+    color: gray;
+    letter-spacing: 5px;
+}
+
+.container{
+    height: 100px;
+    
+}
+
+.input{
+    height: 80%;
+    width: 70%;
+    position: relative;
+    left: 10%;
+    font-size: 15px;
+    padding-left: 40px;
+    border-radius: 10px;
+    border: none;
+    
+}
+
+.btn{
+    width: 200px;
+    position: relative;
+    left: 10%;
+    padding: 20px;
+    height: 80%;
+    background-color: green;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.newClass{
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 60%;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+
